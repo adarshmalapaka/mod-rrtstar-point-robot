@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # MOD-RRT* on a Point Robot in a Dynamic Environment
 Project - 05 for the course, 'ENPM661 - Planning for Autonomous Robots' at the University of Maryland, College Park.
 
